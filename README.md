@@ -1,2 +1,1 @@
-# test-colab
-Test Google Colaboratory
+# Test Google Colaboratory
